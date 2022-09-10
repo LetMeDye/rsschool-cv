@@ -31,3 +31,11 @@ function factorial(n){
   return n*factorial(n-1);
 }
 ``` 
+
+---
+
+## Education
+
+* **KazNU named after Al-Farabi**
+  + Bachelor degree of Computer Science
+    + GPA 3.52
